@@ -1,7 +1,7 @@
-Heroku buildpack: PhantomJS
-=======================
+Heroku buildpack: MongoDB
+=========================
 
-This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) of mongodb(http://www.mongodb.org/).
+[Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for [MongoDB](http://www.mongodb.org/).
 
 Usage
 -----
